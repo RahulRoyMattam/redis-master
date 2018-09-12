@@ -1,0 +1,73 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "bxYc1hvTDuBnNFB/ukOSvB33NP8=",
+			"path": "github.com/certifi/gocertifi",
+			"revision": "ee1a9a0726d2ae45f54118cac878c990d4016ded",
+			"revisionTime": "2018-08-28T16:03:48Z"
+		},
+		{
+			"checksumSHA1": "Zkz9F/c3b1Nz15Gh63cFZXqAzO8=",
+			"path": "github.com/evalphobia/logrus_sentry",
+			"revision": "b78b27461c8163c45abf4ab3a8330d2b1ee9456a",
+			"revisionTime": "2018-05-25T08:55:11Z"
+		},
+		{
+			"checksumSHA1": "6X3O3mfvOyiwV2iAb5GjxARs08c=",
+			"path": "github.com/garyburd/redigo/internal",
+			"revision": "569eae59ada904ea8db7a225c2b47165af08735a",
+			"revisionTime": "2018-04-04T16:07:26Z"
+		},
+		{
+			"checksumSHA1": "TRsWhl8gX4p8xoErljH/oyNmY5M=",
+			"path": "github.com/garyburd/redigo/redis",
+			"revision": "569eae59ada904ea8db7a225c2b47165af08735a",
+			"revisionTime": "2018-04-04T16:07:26Z"
+		},
+		{
+			"checksumSHA1": "Qdi2lv1bcequTz2JB3LmcptftA4=",
+			"path": "github.com/getsentry/raven-go",
+			"revision": "084a9de9eb0361fbd5ded14b55c84e5493a5d7f6",
+			"revisionTime": "2018-09-03T07:25:08Z"
+		},
+		{
+			"checksumSHA1": "OTUyDKVOGLn9xEKm2g5exw9cyQs=",
+			"path": "github.com/gorilla/mux",
+			"revision": "9e1f5955c0d22b55d9e20d6faa28589f83b2faca",
+			"revisionTime": "2018-09-03T15:43:05Z"
+		},
+		{
+			"checksumSHA1": "7UwX0gHWVH7OvdvLkQdAncvm9tk=",
+			"path": "github.com/pkg/errors",
+			"revision": "c059e472caf75dbe73903f6521a20abac245b17f",
+			"revisionTime": "2018-09-11T06:21:13Z"
+		},
+		{
+			"checksumSHA1": "vUkCXzz1g+JkC28QaurRU/Q+whI=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "f3df9aeffda7c12bd9f5a03f9251d75d35993165",
+			"revisionTime": "2018-09-08T09:18:16Z"
+		},
+		{
+			"checksumSHA1": "BGm8lKZmvJbf/YOJLeL1rw2WVjA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "0e37d006457bf46f9e6692014ba72ef82c33022c",
+			"revisionTime": "2018-06-14T19:19:50Z"
+		},
+		{
+			"checksumSHA1": "rpVGMdgqNVY3sYQZg2RPtiwPzsY=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "d0be0721c37eeb5299f245a996a483160fc36940",
+			"revisionTime": "2018-09-09T03:34:56Z"
+		},
+		{
+			"checksumSHA1": "wvpEa7a7bm3i833AmLpSarI51Yc=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "d0be0721c37eeb5299f245a996a483160fc36940",
+			"revisionTime": "2018-09-09T03:34:56Z"
+		}
+	],
+	"rootPath": "github.com/rahulroymattam/redis-master"
+}
